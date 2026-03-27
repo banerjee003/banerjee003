@@ -1,5 +1,9 @@
 # 💫 About Me:
-B.Tech student in Computer Science and Engineering with experience in C, C++ ,Python and SQL. <br>Passionate about Artificial Intelligence and its applications in solving real-world problems. <br>Love to solve problems regarding Database.<br>I enjoy exploring how AI is transforming the tech industry. <br>Eager to connect with professionals to explore AI trends and collaboration opportunities.
+🎓 B.Tech student in Computer Science & Engineering with a strong foundation in C, C++, Python, and SQL.
+🤖 Deeply passionate about Artificial Intelligence and its potential to solve real-world challenges.
+🗄️ Love diving into database problems and optimizing data-driven solutions.
+🚀 Curious about how AI is transforming the tech landscape and shaping the future.
+🤝 Always eager to connect with like-minded professionals to explore AI trends, innovations, and collaboration opportunities.
 
 
 ## 🌐 Socials:
