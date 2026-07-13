@@ -10,8 +10,11 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=banerjee003&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=banerjee003&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=banerjee003&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+![](https://github-readme-stats.shion.dev/api?username=banerjee003&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=banerjee003&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=banerjee003&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
