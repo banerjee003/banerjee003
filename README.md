@@ -11,9 +11,8 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=banerjee003&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-![](https://streak-stats.demolab.com/?user=banerjee003&theme=dark&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=banerjee003&theme=dark)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=banerjee003&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
